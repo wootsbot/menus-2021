@@ -5,7 +5,7 @@ import { compose } from 'redux';
 import MenusProvider from 'providers/MenusProvider';
 
 import Header from 'components/header';
-import Container from 'components/Container';
+import Container from 'components/container';
 
 function IndexPage() {
   return (
